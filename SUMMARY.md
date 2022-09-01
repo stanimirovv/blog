@@ -4,6 +4,8 @@
 
 ## 🔮 Software atoms
 
+* [Lines of code != feature count](software-atoms/lines-of-code-feature-count.md)
+* [Different Software - Different Quality](software-atoms/different-software-different-quality.md)
 * [junior2mid](software-atoms/junior2mid.md)
 * [Book alternatives](software-atoms/book-alternatives.md)
 * [Courses](software-atoms/courses.md)
@@ -13,7 +15,3 @@
 * [10x Developer](software-atoms/10x-developer.md)
 * [Books for beginners 1](software-atoms/books-for-beginners-1.md)
 * [Parkinson's Law](software-atoms/parkinsons-law.md)
-
-## Posts
-
-* [Page 1](posts/page-1.md)
