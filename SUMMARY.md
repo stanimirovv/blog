@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Mocking Private Functionality](software-atoms/mocking-private-functionality.md)
 * [Lines of code != feature count](software-atoms/lines-of-code-feature-count.md)
 * [Different Software - Different Quality](software-atoms/different-software-different-quality.md)
 * [junior2mid](software-atoms/junior2mid.md)
