@@ -17,3 +17,10 @@
 * [10x Developer](software-atoms/10x-developer.md)
 * [Books for beginners 1](software-atoms/books-for-beginners-1.md)
 * [Parkinson's Law](software-atoms/parkinsons-law.md)
+
+## 💡 Memos
+
+* [Typed Configuration](memos/typed-configuration.md)
+* [Incremental Feature Delivery](memos/incremental-feature-delivery.md)
+* [nest-cli architecture is nide](memos/nest-cli-architecture-is-nide.md)
+* [Self Healing Software](memos/self-healing-software.md)

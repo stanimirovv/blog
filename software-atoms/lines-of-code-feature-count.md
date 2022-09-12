@@ -22,7 +22,7 @@ The first thing you will notice is the steep fall of line count. This was done v
 
 The more important part though is here:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 The code goes up, but it also goes down.
 
