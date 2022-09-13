@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Universal Practices](software-atoms/universal-practices.md)
 * [More functions == good](software-atoms/more-functions-good.md)
 * [Mocking Private Functionality](software-atoms/mocking-private-functionality.md)
 * [Lines of code != feature count](software-atoms/lines-of-code-feature-count.md)
