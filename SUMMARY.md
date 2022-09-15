@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Commit message readability](software-atoms/commit-message-readability.md)
 * [Universal Practices](software-atoms/universal-practices.md)
 * [More functions == good](software-atoms/more-functions-good.md)
 * [Mocking Private Functionality](software-atoms/mocking-private-functionality.md)
@@ -23,5 +24,5 @@
 
 * [Typed Configuration](memos/typed-configuration.md)
 * [Incremental Feature Delivery](memos/incremental-feature-delivery.md)
-* [nest-cli architecture is nide](memos/nest-cli-architecture-is-nide.md)
+* [nest-cli architecture is nice](memos/nest-cli-architecture-is-nice.md)
 * [Self Healing Software](memos/self-healing-software.md)
