@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Rushing !== unmaintainable](software-atoms/rushing-unmaintainable.md)
 * [Commit message readability](software-atoms/commit-message-readability.md)
 * [Universal Practices](software-atoms/universal-practices.md)
 * [More functions == good](software-atoms/more-functions-good.md)
