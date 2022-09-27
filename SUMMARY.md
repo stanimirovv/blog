@@ -27,3 +27,8 @@
 * [Incremental Feature Delivery](memos/incremental-feature-delivery.md)
 * [nest-cli architecture is nice](memos/nest-cli-architecture-is-nice.md)
 * [Self Healing Software](memos/self-healing-software.md)
+
+## 🧱 foundation
+
+* [Junior2Mid](foundation/junior2mid.md)
+* [Books for new developers](foundation/books-for-new-developers.md)
