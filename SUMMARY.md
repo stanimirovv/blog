@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Good practices fade out](software-atoms/good-practices-fade-out.md)
 * [Rushing !== unmaintainable](software-atoms/rushing-unmaintainable.md)
 * [Commit message readability](software-atoms/commit-message-readability.md)
 * [Universal Practices](software-atoms/universal-practices.md)
