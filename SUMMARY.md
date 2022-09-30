@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Make mall pull requests](software-atoms/make-mall-pull-requests.md)
 * [Good practices fade out](software-atoms/good-practices-fade-out.md)
 * [Rushing !== unmaintainable](software-atoms/rushing-unmaintainable.md)
 * [Commit message readability](software-atoms/commit-message-readability.md)
