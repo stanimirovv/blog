@@ -8,7 +8,7 @@ I decided to test out how much benefits we can get if we store the (again, non s
 
 I created a configuration type and for illustration a factory that returns the environment’s contents based on input.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 Then I created 2 configuration files:
 

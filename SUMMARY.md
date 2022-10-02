@@ -33,4 +33,4 @@
 ## 🧱 foundation
 
 * [Junior2Mid](foundation/junior2mid.md)
-* [Books for new developers](foundation/books-for-new-developers.md)
+* [Books and resources for new developers](foundation/books-and-resources-for-new-developers.md)

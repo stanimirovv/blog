@@ -1,2 +1,0 @@
-# Books for new developers
-
