@@ -14,7 +14,7 @@ Most books should be read several times. I still find new meaning behind the wor
 
 Contains a great overview of how your work isn't just coding. You should develop solutions and use automation as much as possible. It also focuses on core development principles like test driven development, CI/CD and short feedback loops.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -24,7 +24,7 @@ Contains a great overview of how your work isn't just coding. You should develop
 
 Each book contains a lot of practical knowedge. The ideas aren't new per se nor are only in this book, but Bob Martin's writing is great and the books are battle tested.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 
 
@@ -40,7 +40,7 @@ The sooner you read it the better.
 
 **Design Patterns: Elements of Reusable Object-Oriented SoftwareThere is a great book**
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 Design patterns build on top of the SOLID principles to help you write more maintainable code by offering battle tested solutions to generic and well understood problems.
 

@@ -16,13 +16,13 @@ Once it is done it is much, easier to find logical duplication, fake data struct
 
 Let's take an example project:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Linecount for a project over the period of 9 months</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Linecount for a project over the period of 9 months</p></figcaption></figure>
 
 The first thing you will notice is the steep fall of line count. This was done via moving to a monorepo and abstracting the shared components. In a sense the steep line was dublicated code even though it didn't always trivially look the same.
 
 The more important part though is here:
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 The code goes up, but it also goes down.
 

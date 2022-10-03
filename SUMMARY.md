@@ -4,7 +4,7 @@
 
 ## 🔮 Software atoms
 
-* [Make mall pull requests](software-atoms/make-mall-pull-requests.md)
+* [Make small pull requests](software-atoms/make-small-pull-requests.md)
 * [Good practices fade out](software-atoms/good-practices-fade-out.md)
 * [Rushing !== unmaintainable](software-atoms/rushing-unmaintainable.md)
 * [Commit message readability](software-atoms/commit-message-readability.md)
@@ -25,6 +25,7 @@
 
 ## 💡 Memos
 
+* [Software Development Fundament](memos/software-development-fundament.md)
 * [Typed Configuration](memos/typed-configuration.md)
 * [Incremental Feature Delivery](memos/incremental-feature-delivery.md)
 * [nest-cli architecture is nice](memos/nest-cli-architecture-is-nice.md)

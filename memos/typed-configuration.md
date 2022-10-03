@@ -8,17 +8,17 @@ I decided to test out how much benefits we can get if we store the (again, non s
 
 I created a configuration type and for illustration a factory that returns the environment’s contents based on input.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 Then I created 2 configuration files:
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Since the exported variables were typed I got typehints and autocomplete where applicable.
 
 The type errors are caught inside the editor and will be displayed when you try to run the app:
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 You can use additional types that will let you get a lot more out of the compiler, such as setting the range value of integers.
 
