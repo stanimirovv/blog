@@ -102,7 +102,7 @@ One level above that are the **programming languages** - every programming langu
 
 One level above the programming language are the **frameworks** - they use a subset of the language in a specific domain and are based on several design patterns that are used throught the framework.
 
-<figure><img src="../.gitbook/assets/final (2).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/final.svg" alt=""><figcaption></figcaption></figure>
 
 Perhaps deep knowledge in these areas is the mark of a great developer.&#x20;
 
