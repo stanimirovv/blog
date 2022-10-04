@@ -76,8 +76,6 @@ And finally the coupling:
 
 The example perhaps is a bit banal but I think it get's the point across.
 
-
-
 <figure><img src="../.gitbook/assets/stove.svg" alt=""><figcaption></figcaption></figure>
 
 So far we have derived that the fundamental principles of software development are:
@@ -103,6 +101,8 @@ One level above that are the **programming languages** - every programming langu
 One level above the programming language are the **frameworks** - they use a subset of the language in a specific domain and are based on several design patterns that are used throught the framework.
 
 <figure><img src="../.gitbook/assets/final.svg" alt=""><figcaption></figcaption></figure>
+
+The fundamental skills for software development affect all areas - programming, devops, architecture, QA, etc.
 
 Perhaps deep knowledge in these areas is the mark of a great developer.&#x20;
 
