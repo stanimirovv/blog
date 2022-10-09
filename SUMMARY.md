@@ -4,6 +4,8 @@
 
 ## 🔮 Software atoms
 
+* [The Direction of the JS ecosystem is good](software-atoms/the-direction-of-the-js-ecosystem-is-good.md)
+* [Zero configuration == <3](software-atoms/zero-configuration-less-than-3.md)
 * [Make small pull requests](software-atoms/make-small-pull-requests.md)
 * [Good practices fade out](software-atoms/good-practices-fade-out.md)
 * [Rushing !== unmaintainable](software-atoms/rushing-unmaintainable.md)
