@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Documentation is needed after all](software-atoms/documentation-is-needed-after-all.md)
 * [The Direction of the JS ecosystem is good](software-atoms/the-direction-of-the-js-ecosystem-is-good.md)
 * [Zero configuration == <3](software-atoms/zero-configuration-less-than-3.md)
 * [Make small pull requests](software-atoms/make-small-pull-requests.md)
