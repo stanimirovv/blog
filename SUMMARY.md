@@ -26,14 +26,14 @@
 * [10x Developer](software-atoms/10x-developer.md)
 * [Books for beginners 1](software-atoms/books-for-beginners-1.md)
 * [Parkinson's Law](software-atoms/parkinsons-law.md)
+* [nest-cli architecture is nice](software-atoms/nest-cli-architecture-is-nice.md)
+* [Incremental Feature Delivery](software-atoms/incremental-feature-delivery.md)
+* [Self Healing Software](software-atoms/self-healing-software/README.md)
+  * [Typed Configuration](software-atoms/self-healing-software/typed-configuration.md)
 
 ## 💡 Memos
 
-* [Software Development Fundament](memos/software-development-fundament.md)
-* [Typed Configuration](memos/typed-configuration.md)
-* [Incremental Feature Delivery](memos/incremental-feature-delivery.md)
-* [nest-cli architecture is nice](memos/nest-cli-architecture-is-nice.md)
-* [Self Healing Software](memos/self-healing-software.md)
+* [Software Development Fundamentals](memos/software-development-fundamentals.md)
 
 ## 🧱 foundation
 
