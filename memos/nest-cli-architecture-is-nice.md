@@ -1,4 +1,4 @@
-# nest-cli architecture is nide
+# nest-cli architecture is nice
 
 The nest-cli repository has a very interesting implementation of the command pattern.\
 (Repo: [![](https://github.githubassets.com/favicon.ico)](https://github.com/nestjs/nest-cli\)))

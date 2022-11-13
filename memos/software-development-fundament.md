@@ -1,4 +1,4 @@
-# Software Development Fundament
+# Software Development Fundamentals
 
 What are the fundamental principles and skills of software development ?
 
