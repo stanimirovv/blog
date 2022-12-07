@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Interviews should copy Advent of Code](software-atoms/interviews-should-copy-advent-of-code.md)
 * [Rust is nice](software-atoms/rust-is-nice.md)
 * [Agile fatigue is rising](software-atoms/agile-fatigue-is-rising.md)
 * [Documentation is needed after all](software-atoms/documentation-is-needed-after-all.md)
