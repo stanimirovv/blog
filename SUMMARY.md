@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [SQLite is❤️](software-atoms/sqlite-is.md)
 * [Stabilizing Tests without fixing them](software-atoms/stabilizing-tests-without-fixing-them.md)
 * [Interviews should copy Advent of Code](software-atoms/interviews-should-copy-advent-of-code.md)
 * [Rust is nice](software-atoms/rust-is-nice.md)
@@ -36,6 +37,7 @@
 
 ## 💡 Memos
 
+* [2022 Holiday code report](memos/2022-holiday-code-report.md)
 * [Complexity](memos/complexity.md)
 * [Software Development Fundamentals](memos/software-development-fundament.md)
 
