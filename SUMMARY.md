@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Most courses aren't worth it](software-atoms/most-courses-arent-worth-it.md)
 * [SQLite is❤️](software-atoms/sqlite-is.md)
 * [Stabilizing Tests without fixing them](software-atoms/stabilizing-tests-without-fixing-them.md)
 * [Interviews should copy Advent of Code](software-atoms/interviews-should-copy-advent-of-code.md)
