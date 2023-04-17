@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Actionable ways to use ChatGPT](software-atoms/actionable-ways-to-use-chatgpt.md)
 * [Most courses aren't worth it](software-atoms/most-courses-arent-worth-it.md)
 * [SQLite is❤️](software-atoms/sqlite-is.md)
 * [Stabilizing Tests without fixing them](software-atoms/stabilizing-tests-without-fixing-them.md)
@@ -46,3 +47,4 @@
 
 * [Junior2Mid](foundation/junior2mid.md)
 * [Books and resources for new developers](foundation/books-and-resources-for-new-developers.md)
+* [🏔 Now](foundation/now.md)
