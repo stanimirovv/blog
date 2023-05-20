@@ -36,11 +36,11 @@ How do we form the data structures in our system ? How do we relate them ? What 
 
 The sooner you read it the better.
 
-****![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 **Design Patterns: Elements of Reusable Object-Oriented SoftwareThere is a great book**
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Design patterns build on top of the SOLID principles to help you write more maintainable code by offering battle tested solutions to generic and well understood problems.
 

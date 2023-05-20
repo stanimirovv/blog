@@ -4,6 +4,7 @@
 
 ## 🔮 Software atoms
 
+* [Validating code Architecture with dependency cruiser](software-atoms/validating-code-architecture-with-dependency-cruiser.md)
 * [Actionable ways to use ChatGPT](software-atoms/actionable-ways-to-use-chatgpt.md)
 * [Most courses aren't worth it](software-atoms/most-courses-arent-worth-it.md)
 * [SQLite is❤️](software-atoms/sqlite-is.md)
